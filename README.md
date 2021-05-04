@@ -12,4 +12,4 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/danilashk)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilashk/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danshkk&hide=stars,prs,issues&show_icons=true&dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danshkk&hide=stars,prs,issues&show_icons=true&bg_color=dark)](https://github.com/anuraghazra/github-readme-stats)
