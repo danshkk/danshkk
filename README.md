@@ -11,3 +11,5 @@
 ### Social 
 [![Telegram](https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/danilashk)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilashk/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danshkk)](https://github.com/anuraghazra/github-readme-stats)
