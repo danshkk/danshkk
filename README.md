@@ -9,5 +9,5 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=for-the-badge&logo=Bootstrap&logoColor=white)
 
 ### Social 
-[![Telegram](https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white)] (http://t.me/danilashk)
-![LinkedIn](https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logo=linkedin&logoColor=white) (www.linkedin.com/in/danilashk)
+[![Telegram](https://img.shields.io/badge/-Telegram-9cf?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/danilashk)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/danilashk)
